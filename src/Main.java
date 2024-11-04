@@ -30,7 +30,7 @@ public class Main {
             }
             int avgTemp = tempSum / limit;
 
-            System.out.println("\nСредняя температура:");
+            System.out.println("\nСредняя температура за неделю:");
             System.out.println(avgTemp);
         } catch (Exception e) {
             System.out.println(e);
